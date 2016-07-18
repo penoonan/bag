@@ -1,8 +1,19 @@
-HttpFoundation Request Component
+HttpFoundation Session Component
 ========================
 
-Just the base bags from Symfony's HTTPFoundation component.
+In Wordpress development I kept finding myself wanting to use only some but not all of Symfony's HTTPFoundation.
+
+This library includes only the base bag classes from HttpFoundation.
  
+All of HTTPFoundation is included in these libraries:
+  * [pno/request](https://github.com/penoonan/request)
+  * [pno/session](https://github.com/penoonan/session)  
+  * [pno/bag](https://github.com/penoonan/bag)
+  * [pno/file](https://github.com/penoonan/file)
+  * [pno/response](https://github.com/penoonan/response)
+  * [pno/foundation-tests](https://github.com/penoonan/foundation-tests)
+  
+
 Resources
 ---------
 
