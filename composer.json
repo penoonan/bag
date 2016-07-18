@@ -1,0 +1,32 @@
+{
+  "name": "pno/bag",
+  "type": "library",
+  "description": "Simple Bags from Symfony HttpFoundation Component - I use for Wordpress",
+  "keywords": ["http","bag", "wordpress"],
+  "homepage": "https://github.com/penoonan",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pearl Noonan",
+      "homepage": "https://github.com/penoonan"
+    },
+    {
+      "name": "Fabien Potencier",
+      "email": "fabien@symfony.com"
+    },
+    {
+      "name": "Symfony Community",
+      "homepage": "https://symfony.com/contributors"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "autoload": {
+    "psr-4": { "pno\\Bag\\": "" },
+    "exclude-from-classmap": [
+      "/Tests/"
+    ]
+  },
+  "minimum-stability": "dev"
+}
