@@ -2,7 +2,7 @@
   "name": "pno/bag",
   "type": "library",
   "description": "Simple Bags from Symfony HttpFoundation Component - I use for Wordpress",
-  "keywords": ["http","bag", "wordpress"],
+  "keywords": ["http","bag", "wordpress", "symfony"],
   "homepage": "https://github.com/penoonan",
   "license": "MIT",
   "authors": [
